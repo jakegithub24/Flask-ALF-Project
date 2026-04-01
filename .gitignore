@@ -1,0 +1,10 @@
+# .gitignore (optional but good practice)
+venv/
+__pycache__/
+instance/
+*.pyc
+.env
+.DS_Store
+*.db
+*.sqlite
+*.sqlite3
