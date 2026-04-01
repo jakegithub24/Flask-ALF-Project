@@ -82,3 +82,7 @@ flask-april-fools/
 Remember: This is a lighthearted joke. Use it responsibly and with friends who appreciate harmless fun.
 
 **Enjoy fooling your friends!** 😈
+
+---
+
+Made with ❤️ by [jakegithub24](https://github.com/jakegithub24)
